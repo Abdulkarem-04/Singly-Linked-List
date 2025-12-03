@@ -1,0 +1,1001 @@
+name,course,credit,grade,cgpa
+Abdullah Hassan,AI226,3,71.3,3.83
+Ilyas Hassan,WEB202,4,71.0,3.76
+Hafiz Khoo,AI514,2,87.8,3.42
+Fatimah Liu,AI141,3,91.9,2.98
+Lee Khoo,SE374,3,78.0,3.75
+Mohd Tay,CY209,4,85.2,3.52
+Haikal Zulkifli,CY213,3,96.7,3.56
+Deepak Chin,DB371,3,63.4,3.71
+Yan Ahmad,AI357,3,82.6,3.55
+Jennifer Ahmad,MOB266,4,58.9,2.76
+Tan Patel,IT490,3,77.0,3.82
+Kamal Ramli,NET444,3,93.9,3.6
+Lee Ismail,DS135,2,89.1,3.79
+Ying Hashim,DB543,2,96.0,3.58
+Li Goh,NET194,3,95.5,3.24
+Mei Patel,DB210,4,95.4,3.41
+Halim Daud,DS130,2,93.4,3.82
+Aisyah Heng,MOB121,2,84.0,3.51
+Ariff Harun,CY485,2,65.7,3.77
+Wei Aziz,CY246,3,89.4,3.46
+Lim Goh,AI160,2,93.0,3.58
+Kumar Lee,NET525,3,86.4,2.93
+Abdullah Mahmud,SE380,2,96.1,2.93
+Ravi Chen,DS442,2,70.0,3.75
+Omar Hashim,CS192,3,85.9,3.03
+Muhammad Shah,DS203,4,79.0,2.95
+Mary Zulkifli,WEB270,2,87.7,3.35
+Hakim Nasir,MOB362,2,90.0,2.43
+Kamal Miller,NET136,3,95.1,3.59
+Khairul Teo,DS316,4,85.5,3.21
+Jun Said,DB446,3,81.7,3.84
+Nur Ramli,DS513,3,70.5,3.49
+Divya Aziz,SE436,2,80.4,3.01
+Hafizah Aziz,IT334,3,87.7,3.38
+John Samad,AI485,3,83.9,3.0
+Zulkifli Smith,WEB142,3,89.5,3.41
+Jing Taylor,MOB457,2,93.3,3.69
+Elizabeth Khoo,DS350,3,85.0,3.2
+Faizal Velu,CS302,2,83.7,2.96
+Elizabeth Yusof,CY215,2,83.3,3.62
+Abdullah Tay,DS339,3,87.2,3.82
+Deepak Zainal,DS139,3,65.4,2.76
+Ying Wilson,IT360,3,68.7,3.39
+Omar Muthu,AI416,4,82.9,3.5
+Jun Tay,MOB443,4,87.6,3.56
+Hana Yap,CS365,3,76.9,3.54
+Wong Daud,DS308,3,83.5,3.55
+Amirah Ramli,AI219,2,82.5,3.28
+Safwan Raman,MOB245,2,92.8,3.7
+Michael Lim,CS394,3,95.6,2.91
+Aisyah Ong,WEB492,4,92.7,2.9
+Danial Tay,MOB131,2,90.5,3.59
+Aina Harun,IT452,3,90.5,3.84
+Danial Chin,MOB248,4,72.2,3.49
+Nadia Hassan,IT218,2,74.1,3.76
+Michael Lee,DB279,4,77.7,3.7
+Hakim Rashid,CY160,4,99.8,3.39
+James Said,CS205,3,87.8,3.0
+Ibrahim Ramli,WEB108,4,89.5,3.42
+David Shah,DS334,3,83.8,3.73
+Michael Chua,DB376,4,82.3,3.09
+Azhar Hashim,CS263,4,90.7,3.62
+Robert Foo,CY546,2,90.9,3.41
+John Karim,CY420,4,76.4,3.11
+Elizabeth Ali,MOB136,3,88.9,3.55
+Nurul Ibrahim,CY508,2,91.9,3.74
+Deepak Yeo,DS355,3,82.4,3.78
+Safwan Osman,NET454,3,94.5,3.94
+Kumar Khoo,DB527,3,94.9,3.4
+Chen Ibrahim,AI504,4,85.4,3.63
+Suresh Raman,WEB240,3,82.3,3.84
+Zainab Zhang,NET534,3,83.8,3.58
+Prakash Lim,DS342,2,90.8,3.54
+Mei Ng,SE124,2,93.6,2.94
+Elizabeth Ghani,MOB481,3,83.0,3.58
+Suresh Wong,CY379,3,84.1,2.89
+Safwan Wang,DS269,3,93.5,3.25
+Sarah Yusof,SE480,4,86.6,3.43
+Fatimah Muthu,AI335,2,77.9,3.31
+Hana Yeo,MOB381,3,88.9,3.76
+Khairul Wang,NET332,3,86.9,3.56
+John Omar,IT526,2,69.6,3.4
+Hassan Hashim,CY548,4,93.5,3.54
+Hafizah Wilson,IT491,3,75.5,3.76
+Danial Williams,CY104,3,92.8,3.23
+Jing Harun,CY181,3,94.3,3.47
+Mary Ng,CY321,2,82.7,3.19
+Aminah Rashid,AI268,2,77.4,3.14
+Lee Zainal,CS324,2,89.4,3.57
+Irfan Kumar,MOB336,3,84.4,3.61
+Zulkifli Kumar,IT362,2,78.0,3.44
+Yusof Mahmud,SE496,4,83.2,3.7
+Ariff Bakar,MOB129,3,86.9,3.56
+Jun Heng,WEB506,2,81.0,3.84
+Farid Tan,WEB431,3,70.0,3.91
+Zulkifli Omar,CY149,4,77.9,3.6
+Priya Teo,MOB463,2,73.5,3.27
+Jennifer Lee,NET361,3,76.1,3.16
+Farid Yeo,SE406,4,73.5,3.94
+Nur Said,MOB246,4,76.1,3.06
+Jing Singh 101,DS511,3,85.1,3.12
+Xin Lee 102,DS519,4,92.9,3.79
+Hakim Wong 103,CY506,3,67.6,3.21
+Tan Rahman 104,AI211,3,85.7,3.82
+Faizal Harun 105,IT157,4,86.7,3.03
+Jing Sharma 106,IT369,3,75.3,3.48
+Prakash Rashid 107,CS283,2,79.9,3.91
+Omar Husin 108,DB424,3,93.1,3.49
+Halim Mansor 109,CY542,2,64.1,3.41
+Ying Tan 110,NET409,3,95.8,3.39
+Hafiz Samad 111,CS473,3,83.9,3.1
+Ibrahim Hassan 112,SE535,4,91.7,3.19
+Jennifer Miller 113,NET261,3,74.5,3.59
+Li Wang 114,MOB247,4,93.6,3.19
+Hakim Jones 115,IT382,3,87.5,3.49
+Kamal Goh 116,DS505,4,75.3,3.83
+David Raman 117,NET494,4,88.6,3.8
+Xin Naidu 118,CS526,2,93.4,3.23
+Tan Rashid 119,DS426,3,77.4,3.59
+Ilyas Williams 120,MOB122,2,67.8,3.1
+Elizabeth Daud 121,AI348,3,93.4,3.02
+Ilyas Koh 122,CY542,3,91.3,3.55
+Chen Yusof 123,AI297,4,90.9,3.17
+Mary Husin 124,DB258,4,70.7,3.8
+John Mansor 125,WEB105,2,78.2,3.28
+Khairul Mansor 126,IT298,4,96.1,3.52
+Zainab Krishnan 127,MOB361,4,93.9,3.31
+Irfan Low 128,CY184,4,71.6,3.38
+Haikal Ramli 129,CS406,4,89.1,3.17
+Deepak Koh 130,DS117,2,82.6,3.1
+Raj Goh 131,WEB207,3,84.9,2.95
+Sarah Low 132,DB199,3,63.4,3.4
+David Jones 133,WEB508,3,81.3,3.86
+Tan Jones 134,DB436,3,87.8,3.42
+Jennifer Zhang 135,DS127,2,94.4,2.63
+Aina Johnson 136,AI431,2,80.7,3.76
+Sofea Ali 137,CS253,2,84.5,3.41
+Zulkifli Singh 138,DB432,3,78.4,3.57
+Irfan Lee 139,NET443,2,85.0,2.96
+Ariff Heng 140,MOB106,3,96.8,3.31
+Danial Ong 141,AI289,3,90.7,3.44
+Linda Wang 142,DS449,2,89.1,3.07
+Patricia Said 143,IT449,3,97.3,3.32
+Danial Rahman 144,NET231,2,97.7,3.12
+Jing Wilson 145,NET330,4,79.4,3.76
+Jennifer Teo 146,DS528,2,89.9,3.64
+Yusof Bakar 147,DS549,2,69.0,3.08
+Kumar Aziz 148,CS306,4,81.3,3.73
+Irfan Hamid 149,AI549,3,83.1,3.39
+Kumar Jones 150,NET503,3,92.2,3.69
+Zainab Husin 151,CS388,4,87.4,3.91
+Halim Yusof 152,AI294,2,88.1,3.9
+David Aziz 153,MOB461,3,88.5,3.58
+James Husin 154,IT512,4,94.5,2.89
+Jing Daud 155,SE201,3,88.1,3.36
+Yan Kumar 156,CY187,3,85.5,2.59
+Azhar Omar 157,SE105,3,82.8,3.5
+Khairul Hashim 158,CS109,3,86.1,3.69
+Jennifer Chua 159,DS199,3,92.0,3.17
+Muhammad Lee 160,NET295,4,86.4,3.57
+Mohd Tay 161,DB239,2,95.4,3.74
+Priya Mahmud 162,AI184,3,82.0,3.0
+Tan Naidu 163,CY128,2,88.5,3.3
+Deepak Nasir 164,SE449,4,67.0,2.8
+Sanjay Smith 165,CY155,2,93.0,3.49
+Ravi Chong 166,IT406,3,78.0,3.73
+Amirah Chopra 167,SE133,3,85.2,3.13
+Kamal Harun 168,IT170,3,91.8,3.67
+Kamal Khan 169,CY191,4,86.7,3.46
+Syafiq Krishnan 170,MOB380,3,82.9,2.87
+Mei Chopra 171,SE425,3,75.1,3.06
+Robert Ghani 172,WEB119,3,86.4,2.91
+Rizal Ibrahim 173,MOB431,4,69.5,3.63
+Safwan Naidu 174,SE277,2,74.7,2.98
+Hafiz Shah 175,IT325,4,70.9,3.77
+Hafizah Jamal 176,DB219,4,83.6,3.6
+Ali Wang 177,DS243,2,85.9,3.02
+Hakim Chin 178,NET413,4,75.7,3.74
+Tan Goh 179,CY161,3,77.1,3.49
+Linda Raj 180,WEB186,4,70.7,3.66
+Sanjay Yap 181,WEB435,4,78.4,3.82
+Aina Kumar 182,DB390,4,94.9,3.42
+Ying Lim 183,DS253,2,74.8,3.16
+Rizal Jamal 184,SE416,3,81.4,3.74
+Sofea Daud 185,MOB237,2,81.2,3.05
+Zainab Johnson 186,DS490,4,90.7,3.39
+Prakash Harun 187,DB268,2,97.3,3.05
+Priya Wang 188,NET523,3,90.5,2.77
+Kumar Ibrahim 189,IT421,4,81.3,3.89
+Tan Wilson 190,SE127,4,80.4,3.42
+Safwan Zhang 191,WEB449,4,59.1,3.82
+Lim Lim 192,CY289,3,77.9,3.28
+Yusof Hashim 193,MOB452,4,74.7,3.69
+Syahir Khoo 194,AI499,2,93.9,3.61
+Nur Chopra 195,NET158,3,85.0,3.06
+Omar Shah 196,IT109,2,93.9,3.6
+Linda Velu 197,MOB179,3,60.7,3.08
+Wei Ramli 198,NET474,3,82.0,3.84
+Siti Singh 199,DB278,3,65.4,3.16
+Izzat Mahmud 200,DB334,3,85.5,3.42
+Mary Ahmad 201,CS540,2,84.7,3.68
+Jing Zhang 202,CY228,4,96.5,2.96
+Divya Omar 203,DB544,3,96.8,3.0
+Aisyah Husin 204,CY403,4,88.0,3.45
+Danial Lim 205,DS372,3,89.7,3.34
+Yan Tan 206,MOB149,3,85.4,3.68
+Priya Johnson 207,CY332,3,91.5,3.16
+Hassan Velu 208,CY495,3,79.3,3.63
+Ravi Zainal 209,WEB126,3,96.4,3.63
+Aminah Ong 210,CS132,3,82.1,3.7
+Ahmad Omar 211,DS431,4,96.6,3.05
+James Hassan 212,NET450,4,88.8,3.66
+Khairul Khan 213,CS145,3,80.2,3.22
+Deepak Davis 214,DB379,4,87.8,3.7
+Hana Ismail 215,DB372,3,85.9,3.91
+Azman Sia 216,NET282,3,69.8,3.48
+Halim Chopra 217,WEB259,3,91.5,3.77
+Irfan Ismail 218,CS176,3,78.4,3.46
+Ariff Johnson 219,SE181,4,86.6,3.85
+Omar Moore 220,AI476,3,81.5,3.42
+Zainab Brown 221,IT222,3,92.9,3.15
+Ismail Hashim 222,DB294,3,86.8,3.78
+Muhammad Daud 223,CS264,3,72.6,3.49
+Ismail Khoo 224,NET181,2,86.8,3.72
+Nur Wong 225,CS302,4,81.3,3.77
+Tan Shah 226,IT258,4,90.6,3.48
+Fatimah Karim 227,DB339,3,94.4,3.64
+Safwan Liu 228,WEB132,4,89.6,3.44
+Muhammad Naidu 229,MOB365,3,88.0,2.51
+Wei Lee 230,NET385,4,86.0,2.64
+Abdullah Ghani 231,SE176,2,76.3,3.39
+Muhammad Raj 232,AI307,3,89.4,3.93
+Amirah Wilson 233,CS273,3,70.2,2.96
+Jing Khoo 234,IT197,4,73.4,3.64
+Danial Naidu 235,NET170,2,88.4,3.48
+Priya Ong 236,CS224,3,84.3,3.22
+Mohd Zhang 237,DS447,3,97.2,3.82
+Danial Bakar 238,NET293,3,89.7,3.96
+Prakash Yap 239,MOB412,3,94.9,3.69
+Ariff Reddy 240,SE365,3,84.9,3.29
+Sofea Karim 241,NET308,4,91.8,3.55
+Ravi Naidu 242,AI533,3,95.6,2.73
+Rashid Brown 243,IT214,3,83.3,3.39
+Kumar Heng 244,MOB418,2,94.2,3.83
+Omar Smith 245,CS103,4,91.0,3.81
+Ying Zulkifli 246,NET345,4,75.4,3.97
+Azman Jones 247,AI167,2,92.2,3.03
+Farid Nasir 248,SE276,4,86.0,3.32
+Ismail Ong 249,CY465,2,75.6,3.81
+Kumar Ng 250,NET328,4,72.1,3.36
+Aminah Ghani 251,IT362,2,82.4,3.65
+Khairul Chopra 252,DS453,4,77.7,3.15
+Chen Rashid 253,DS334,3,71.6,3.49
+Abdullah Wong 254,CS105,3,90.7,3.83
+Rashid Ng 255,NET305,4,69.9,3.82
+Raj Singh 256,IT314,4,95.2,3.14
+Aziz Khan 257,DB158,4,77.8,3.02
+Xin Aziz 258,DB278,4,97.4,3.44
+Michael Johnson 259,DS270,3,70.0,2.86
+James Samad 260,CY161,4,83.1,3.48
+Hafizah Chen 261,DB275,3,83.9,3.58
+Azman Ahmad 262,CY282,3,95.1,3.15
+Nadia Low 263,DS197,2,87.1,3.36
+Safwan Naidu 264,SE356,2,86.5,3.79
+Syahir Khoo 265,CY359,4,79.2,3.57
+Aminah Hashim 266,MOB459,3,93.7,3.7
+Hafiz Teo 267,SE358,3,87.2,3.49
+Ying Abdullah 268,WEB155,2,95.8,3.42
+Raj Daud 269,DS486,2,80.5,3.31
+Mary Mansor 270,CS296,4,79.4,3.36
+Hui Zhang 271,CY487,3,93.1,3.78
+Deepak Ibrahim 272,NET243,3,85.6,3.8
+Kumar Low 273,AI352,3,75.1,3.74
+Divya Lee 274,CY214,3,91.9,3.44
+Siti Ng 275,CY329,3,90.0,2.9
+Sanjay Rashid 276,WEB471,3,63.4,3.61
+Irfan Chandran 277,IT150,3,92.4,2.79
+Xin Mahmud 278,SE113,4,83.4,3.68
+Divya Nasir 279,CY109,4,84.7,3.26
+Wong Mansor 280,DB296,4,71.6,3.53
+Prakash Abdullah 281,WEB548,3,80.1,3.18
+Ibrahim Sharma 282,DS416,3,70.6,3.6
+Wei Rashid 283,IT202,4,92.2,3.4
+Haikal Chua 284,MOB391,3,95.5,3.47
+Suresh Goh 285,CY550,4,89.6,2.73
+Aminah Velu 286,DS235,2,78.0,3.93
+Elizabeth Shah 287,SE288,4,74.0,3.5
+Nur Low 288,SE488,3,85.4,3.77
+Fatimah Chen 289,WEB506,3,80.1,3.2
+Deepak Moore 290,CY401,2,89.2,3.32
+Aminah Said 291,SE218,2,93.7,3.32
+Zulkifli Ng 292,DB446,4,81.6,3.16
+Mary Ibrahim 293,MOB176,2,79.2,3.33
+Mohd Samad 294,MOB342,4,76.9,3.28
+Yan Chin 295,MOB136,3,97.9,3.37
+Omar Shah 296,MOB408,2,88.4,3.51
+Fatimah Raman 297,NET218,4,88.0,3.86
+David Liu 298,IT246,4,88.8,3.86
+Haikal Rashid 299,AI538,4,92.8,3.4
+Danial Sia 300,CY497,4,85.3,3.71
+Divya Williams 301,WEB415,2,90.0,3.65
+Muhammad Taylor 302,NET415,3,85.4,3.83
+Patricia Liu 303,MOB187,2,89.1,3.32
+Khairul Mansor 304,WEB399,3,90.2,3.4
+Robert Daud 305,CY160,3,90.1,3.61
+Nurul Khan 306,IT233,2,90.8,3.7
+Sarah Aziz 307,AI148,4,96.5,3.69
+Sarah Chen 308,DS204,3,97.3,2.94
+David Wilson 309,MOB262,4,90.6,3.19
+Izzat Teo 310,CS370,4,85.4,3.56
+Siti Chen 311,NET398,2,89.1,3.13
+James Jamal 312,DS315,3,85.0,3.29
+Deepak Krishnan 313,SE510,3,87.2,3.65
+Michael Osman 314,AI388,2,95.7,3.46
+Suresh Miller 315,WEB386,3,87.1,3.34
+Aina Davis 316,CY445,4,97.0,2.89
+Farid Ghani 317,MOB393,4,84.6,3.52
+Suresh Foo 318,WEB331,4,90.9,2.96
+Priya Lim 319,IT133,4,88.6,3.5
+Sanjay Ramli 320,DS227,3,84.3,2.35
+Jun Gan 321,AI381,4,77.6,3.26
+Hafiz Khan 322,WEB217,2,90.4,3.65
+Michael Khan 323,AI105,4,82.1,3.28
+Sanjay Moore 324,DS235,2,76.6,3.75
+Amirah Hashim 325,DS537,2,76.1,3.82
+Rashid Lim 326,AI238,3,93.6,3.59
+Prakash Husin 327,CS270,2,97.9,3.42
+Deepak Abdullah 328,IT494,3,90.1,3.71
+Zainal Shah 329,NET449,3,87.8,3.54
+Mohd Ng 330,DS425,4,88.7,2.97
+Prakash Lee 331,DS181,4,60.3,3.36
+Lim Teo 332,DB220,3,90.4,3.81
+Michael Said 333,WEB251,4,84.5,3.78
+Sofea Karim 334,WEB288,4,97.7,3.37
+Linda Taylor 335,DS369,4,93.2,3.16
+Michael Raman 336,MOB460,3,75.0,2.76
+Raj Low 337,AI371,2,96.8,3.67
+Halim Raman 338,DS392,3,79.6,3.26
+Lim Kumar 339,SE382,4,85.0,3.69
+Prakash Hashim 340,NET523,3,93.0,3.35
+Ariff Ahmad 341,AI214,3,94.0,3.58
+Suresh Heng 342,DS220,3,77.4,3.23
+Izzat Wong 343,MOB429,3,76.4,3.41
+Ilyas Abdullah 344,NET128,3,84.5,3.37
+Li Chin 345,MOB359,2,83.9,3.72
+Tan Zulkifli 346,WEB323,3,94.6,3.68
+Xin Johnson 347,MOB146,2,91.0,3.64
+Rizal Said 348,MOB175,4,83.4,3.1
+Siti Williams 349,IT257,4,78.4,3.41
+Zainab Rahman 350,NET399,2,89.8,3.1
+Suresh Lim 351,CS250,4,86.2,3.45
+Ahmad Ibrahim 352,DS372,3,92.0,3.6
+Robert Bakar 353,CS421,3,90.5,2.98
+Deepak Muthu 354,MOB547,3,86.3,3.79
+Haikal Gan 355,DS542,3,82.2,3.1
+Hassan Sharma 356,CY530,3,90.5,3.87
+Rizal Low 357,AI411,3,83.3,3.69
+Mei Abdullah 358,AI312,3,72.5,3.75
+Aisyah Jamal 359,NET498,2,81.3,3.8
+Fatimah Aziz 360,WEB376,4,85.6,3.81
+Kumar Muthu 361,SE338,4,86.8,3.73
+Nurul Raj 362,DB403,3,76.9,3.36
+Tan Raman 363,NET473,3,75.7,3.76
+Omar Yusof 364,NET258,3,92.7,3.99
+Siti Harun 365,DB538,4,84.1,3.27
+Khairul Bakar 366,MOB422,3,62.6,3.68
+Aina Low 367,MOB394,3,75.4,3.45
+Wei Daud 368,DB169,2,87.8,3.83
+Jennifer Lee 369,DB471,3,90.3,3.39
+James Chopra 370,SE413,3,85.7,3.74
+Mohd Abdullah 371,DS454,3,87.0,3.69
+Syafiq Low 372,CS527,3,81.1,3.19
+Zulkifli Husin 373,NET481,2,85.5,3.25
+Ravi Omar 374,SE244,2,82.5,3.81
+Danial Smith 375,CS240,4,80.4,3.64
+Muhammad Krishnan 376,IT328,2,95.7,3.59
+Chen Muthu 377,SE206,2,84.6,3.51
+Patricia Ramli 378,CS396,3,93.5,3.27
+Ibrahim Bakar 379,IT108,2,85.6,3.73
+Rizal Williams 380,WEB328,2,73.2,3.4
+Safwan Samad 381,MOB283,3,75.3,2.72
+Wong Husin 382,IT334,3,88.9,3.11
+Priya Sharma 383,CY504,3,85.7,3.09
+Aziz Chandran 384,IT308,2,73.8,3.24
+David Taylor 385,IT275,3,83.0,3.77
+Lee Sia 386,DB159,4,84.5,3.17
+Deepak Johnson 387,DB431,2,63.0,3.13
+Izzat Samad 388,DS206,3,77.5,3.64
+Mary Zulkifli 389,SE537,3,73.4,3.8
+Safwan Zainal 390,CY465,4,91.2,3.25
+Aziz Goh 391,CS137,2,74.3,2.74
+Ilyas Jamal 392,MOB193,4,87.0,3.12
+Nur Naidu 393,AI311,3,83.5,3.02
+Hana Husin 394,WEB141,2,76.9,3.46
+Farid Velu 395,CS341,4,79.3,3.03
+Raj Shah 396,MOB187,2,88.1,3.34
+Hana Rashid 397,CS480,2,80.6,3.67
+Muhammad Williams 398,IT175,3,92.1,3.77
+Hafiz Yusof 399,AI487,2,75.1,3.86
+Sanjay Shah 400,AI175,4,69.6,2.77
+Xin Low 401,AI272,3,77.6,3.35
+Halim Muthu 402,CY447,3,85.2,3.3
+Muhammad Hassan 403,MOB148,2,87.8,3.59
+Syafiq Sharma 404,IT457,3,83.7,3.81
+Raj Moore 405,NET271,2,90.5,3.76
+Xin Wang 406,MOB430,2,91.1,3.73
+Muhammad Taylor 407,AI178,3,91.8,2.96
+Wei Gan 408,DS102,4,80.6,3.84
+Farid Tan 409,DB490,3,97.5,3.37
+Hui Reddy 410,SE119,3,79.6,3.59
+Li Rahman 411,CS274,2,85.7,3.48
+Azhar Mahmud 412,CS477,3,91.3,2.29
+Chen Harun 413,MOB188,2,91.9,3.55
+Izzat Gan 414,SE265,3,92.3,2.92
+Hui Aziz 415,MOB121,3,74.0,3.41
+Aina Ghani 416,DB455,3,80.1,2.92
+Ariff Jones 417,NET103,3,67.4,3.3
+Kumar Reddy 418,IT508,3,88.7,3.38
+Xin Rashid 419,CY416,4,64.8,2.85
+Irfan Ghani 420,DS483,3,88.6,3.29
+Xin Koh 421,DS413,4,81.2,3.51
+Syafiq Ismail 422,AI170,2,95.9,3.4
+Rizal Kumar 423,MOB384,3,76.9,3.66
+Aisyah Aziz 424,CY323,3,96.6,3.46
+Robert Ali 425,NET372,4,75.1,3.91
+Mohd Teo 426,CY252,3,88.1,3.57
+Divya Sharma 427,CY421,4,82.6,3.07
+Izzat Chen 428,IT418,3,87.0,3.24
+Zulkifli Hamid 429,WEB159,4,77.0,3.7
+Robert Jamal 430,AI128,2,83.8,2.99
+Li Yeo 431,CY510,2,92.8,3.73
+Abdullah Koh 432,DB178,3,90.5,3.58
+Ahmad Daud 433,DS133,2,80.5,3.64
+Danial Kumar 434,AI217,4,89.1,3.46
+Omar Chua 435,SE222,2,86.4,3.82
+Hafiz Koh 436,CY330,3,97.8,3.57
+Sofea Shah 437,AI487,3,96.4,2.79
+Ravi Lee 438,CY129,3,98.1,3.8
+Halim Patel 439,CY409,2,82.7,3.75
+Hui Ghani 440,DB248,3,91.4,3.68
+John Raman 441,CY134,4,75.1,3.79
+Khairul Patel 442,CS522,3,89.4,2.82
+Aina Ghani 443,SE352,3,72.0,3.5
+Sarah Shah 444,IT292,2,85.9,3.52
+Jennifer Mahmud 445,WEB200,3,95.2,3.09
+Linda Heng 446,CY522,3,72.1,3.75
+Azman Reddy 447,WEB415,2,93.9,2.58
+Hui Chin 448,WEB491,3,90.9,3.75
+Ying Ng 449,IT110,4,77.3,3.71
+Chen Ong 450,MOB206,3,92.6,3.8
+Robert Low 451,DS359,2,96.7,3.53
+John Miller 452,MOB195,4,77.8,3.47
+Hakim Ong 453,DB157,3,90.4,3.19
+Danial Said 454,DS384,4,90.6,3.48
+Michael Lim 455,NET325,2,72.2,3.8
+Kamal Williams 456,DS405,4,71.3,3.71
+Divya Davis 457,DB442,4,90.7,3.85
+Wei Chopra 458,CS192,4,91.2,3.56
+Jun Krishnan 459,AI439,4,89.1,3.9
+Hassan Taylor 460,DB262,4,92.5,3.81
+Danial Taylor 461,DB492,2,85.4,3.63
+Deepak Low 462,CY493,3,95.9,3.88
+Farid Moore 463,IT320,3,83.0,3.48
+Muhammad Harun 464,NET391,4,79.6,3.28
+Chen Chen 465,CY355,3,75.7,3.39
+Ariff Sia 466,NET512,3,81.7,3.42
+Ying Chen 467,CY508,2,78.8,3.54
+Yan Chong 468,SE110,3,87.5,3.13
+Syafiq Ismail 469,WEB203,3,78.0,3.21
+Zainal Hashim 470,AI522,3,85.3,3.41
+Jun Patel 471,WEB324,4,94.4,3.09
+Fatimah Patel 472,CS129,2,95.1,3.33
+Nur Ng 473,MOB477,2,91.4,3.16
+Nur Jamal 474,DS174,2,81.6,3.58
+Hakim Gan 475,NET344,3,98.4,3.32
+Nur Rashid 476,WEB297,3,86.8,3.58
+Ibrahim Said 477,CY516,4,97.0,3.5
+Chen Singh 478,AI360,2,73.3,3.85
+Hui Goh 479,CS306,3,96.2,3.01
+Syahir Hashim 480,CY332,4,84.6,3.18
+Izzat Zhang 481,CS112,3,96.1,3.27
+Wong Wilson 482,SE391,2,61.5,3.79
+Amirah Mansor 483,DB296,3,91.4,3.78
+Nurul Daud 484,AI221,4,91.6,3.32
+Nadia Mahmud 485,IT386,2,75.2,3.13
+Fatimah Ahmad 486,AI359,4,86.0,3.66
+Farid Husin 487,SE146,3,93.0,2.91
+Patricia Smith 488,NET185,3,90.1,3.02
+Jun Nasir 489,IT354,2,83.4,3.55
+Zainal Mansor 490,SE528,3,87.8,3.95
+Rashid Ghani 491,IT227,4,98.1,3.45
+Irfan Chua 492,CS142,4,91.3,3.43
+Raj Mahmud 493,WEB409,4,84.7,3.65
+Divya Mansor 494,SE162,3,80.6,3.51
+Sanjay Shah 495,AI389,4,80.6,3.49
+Azman Chua 496,DB370,2,91.8,3.67
+Kumar Chong 497,IT124,2,86.7,3.54
+Ahmad Ng 498,DB192,3,88.9,3.77
+Ilyas Karim 499,IT323,2,74.1,3.24
+Priya Osman 500,IT165,3,65.4,3.58
+John Jamal 501,CS160,3,92.8,3.13
+Priya Yusof 502,CY105,2,81.1,3.47
+Safwan Low 503,DB219,2,90.1,3.61
+Hafiz Said 504,DS360,3,81.2,3.73
+Suresh Shah 505,SE419,3,77.5,3.7
+James Osman 506,DS208,2,90.6,3.57
+Azhar Ong 507,WEB215,4,85.6,3.15
+Kumar Said 508,DB531,2,95.5,3.78
+Suresh Singh 509,AI463,4,91.8,3.92
+John Williams 510,AI359,3,68.6,3.24
+Azhar Goh 511,NET312,4,91.6,3.56
+Farid Smith 512,NET496,3,96.9,2.78
+Sofea Ghani 513,NET449,3,91.6,3.87
+Zainal Gan 514,MOB504,4,80.6,3.82
+Aziz Muthu 515,WEB246,3,76.3,2.79
+Nur Osman 516,NET359,2,93.2,3.31
+Haikal Tay 517,WEB533,3,74.5,3.5
+Irfan Muthu 518,MOB199,3,86.8,3.56
+Lee Wilson 519,WEB307,4,88.7,3.29
+Ibrahim Koh 520,WEB166,4,83.6,3.15
+Hafizah Wilson 521,IT409,4,83.8,3.26
+Nurul Koh 522,SE502,4,64.0,3.04
+Farid Moore 523,DB528,3,90.1,3.56
+Faizal Hashim 524,NET220,4,78.5,3.14
+Danial Yap 525,IT430,2,78.2,3.49
+Hassan Velu 526,SE110,3,85.0,3.29
+Fatimah Patel 527,CS275,4,79.3,3.03
+Rashid Rashid 528,IT179,3,85.2,3.68
+Sarah Moore 529,IT127,3,88.5,3.63
+Khairul Hashim 530,IT348,2,90.4,3.65
+Robert Chen 531,SE292,3,91.0,3.44
+Sofea Kumar 532,CS131,4,76.9,3.84
+Wei Osman 533,IT303,2,95.0,3.75
+Irfan Williams 534,DS336,3,70.0,3.24
+Lee Velu 535,CS527,4,78.8,3.02
+Siti Ong 536,DB290,3,97.8,3.3
+Azhar Chopra 537,CY119,3,94.6,3.7
+Ilyas Tay 538,SE134,3,76.5,3.88
+Linda Low 539,AI449,4,95.4,3.87
+Kumar Bakar 540,NET373,4,87.1,3.78
+Lee Aziz 541,DS185,3,93.7,3.5
+Nadia Aziz 542,IT343,3,94.6,3.83
+Hassan Tan 543,CS118,4,95.0,3.79
+Hafizah Yusof 544,AI536,4,86.5,3.62
+Ying Yeo 545,MOB152,3,98.1,3.95
+Safwan Reddy 546,MOB165,3,80.3,3.61
+Mary Davis 547,AI399,3,83.5,2.66
+Kumar Jamal 548,CY201,3,96.6,3.45
+Haikal Tay 549,CY416,3,85.7,3.28
+Nur Khan 550,CY514,4,91.9,3.84
+Omar Zhang 551,AI469,3,71.6,2.96
+Abdullah Williams 552,DS257,4,76.8,3.47
+Wei Ong 553,SE167,3,83.8,3.36
+Yusof Johnson 554,DS128,3,95.6,3.84
+Mary Wilson 555,DB366,4,79.3,3.13
+Zainal Zhang 556,DS332,3,82.9,3.23
+Jun Chandran 557,MOB273,4,88.1,3.35
+Lee Davis 558,IT251,2,98.1,3.43
+Hana Reddy 559,MOB171,3,92.0,3.5
+Yusof Zainal 560,DS217,3,76.6,3.23
+Halim Jamal 561,NET208,4,87.9,3.9
+Ravi Williams 562,DS315,4,80.5,2.96
+Yusof Brown 563,MOB423,4,91.7,3.81
+Muhammad Khoo 564,DB114,3,83.6,3.35
+Siti Kumar 565,CY541,4,93.3,3.2
+Ibrahim Khoo 566,MOB259,3,93.8,3.35
+Michael Harun 567,DB395,2,84.2,3.56
+Xin Harun 568,NET438,3,84.5,3.65
+Robert Johnson 569,NET331,3,82.8,3.63
+Halim Zainal 570,CS106,3,82.9,3.37
+Hui Goh 571,DB521,3,85.3,3.82
+Mohd Ali 572,WEB211,4,79.3,3.63
+Kumar Chin 573,CS125,4,91.7,3.45
+Azman Wong 574,SE471,3,70.0,3.77
+Siti Zulkifli 575,CY107,4,76.3,3.2
+Lim Velu 576,MOB188,3,83.3,3.65
+David Omar 577,CY110,4,90.5,3.65
+Aisyah Yeo 578,IT131,3,92.5,2.81
+Zulkifli Goh 579,AI263,2,82.2,3.04
+Elizabeth Yusof 580,DS511,3,90.8,3.34
+Zainab Chen 581,SE147,3,96.1,3.57
+Aisyah Osman 582,AI396,4,93.0,3.45
+David Rahman 583,NET319,2,87.3,3.58
+Deepak Yap 584,MOB347,2,90.9,2.37
+Divya Ghani 585,NET481,3,69.8,3.54
+Nadia Jones 586,WEB464,4,96.9,3.41
+Suresh Hassan 587,SE234,4,76.9,2.86
+Safwan Tan 588,WEB197,4,73.9,3.36
+Wong Lim 589,MOB498,3,94.9,3.68
+Jing Raman 590,NET436,3,91.2,3.77
+Halim Karim 591,NET326,2,88.2,3.3
+Raj Salleh 592,CS441,2,97.7,3.46
+Hakim Hamid 593,CY441,4,87.4,2.85
+Aminah Hassan 594,MOB163,3,76.2,3.97
+Irfan Rahman 595,CY548,2,88.4,3.61
+Chen Taylor 596,AI411,3,76.1,2.99
+Jun Kumar 597,DB160,4,93.5,3.57
+Ibrahim Johnson 598,NET493,3,81.7,3.09
+Wong Brown 599,DS395,2,82.0,3.3
+Azhar Zhang 600,AI160,3,69.2,3.66
+Deepak Sia 601,CS260,2,89.3,3.43
+Lim Zainal 602,CS376,4,88.0,3.69
+Muhammad Chin 603,CY259,2,80.2,2.97
+Azman Yusof 604,SE539,4,79.8,3.3
+John Jones 605,NET301,2,80.8,3.86
+Haikal Yusof 606,AI335,3,87.1,3.57
+Suresh Sia 607,IT448,3,78.9,3.02
+Hassan Chandran 608,CY404,4,90.5,3.39
+Wong Husin 609,NET241,4,94.7,3.93
+Izzat Khan 610,AI456,2,90.1,3.69
+Ahmad Zainal 611,WEB519,4,74.1,3.74
+Hassan Sharma 612,MOB456,3,80.9,3.56
+Elizabeth Kumar 613,NET437,2,87.1,3.36
+Ravi Khoo 614,WEB362,3,95.1,3.18
+Hana Teo 615,MOB317,2,82.6,3.21
+Zainab Velu 616,DS137,3,75.8,3.77
+Xin Moore 617,CS410,3,89.3,3.18
+Amirah Koh 618,DS241,2,85.5,3.36
+Chen Raman 619,CY459,3,89.7,3.5
+Siti Chandran 620,SE437,3,85.6,3.19
+Jing Harun 621,SE325,3,93.7,3.38
+Mei Smith 622,IT425,2,90.1,3.88
+Mary Goh 623,DB355,2,78.2,3.33
+Jennifer Khoo 624,CS411,4,95.4,3.7
+Abdullah Williams 625,DS526,2,78.8,3.25
+Faizal Patel 626,CS283,2,90.3,3.41
+Hassan Patel 627,CS180,3,86.5,3.67
+Hui Singh 628,SE282,4,71.7,3.88
+David Salleh 629,IT316,4,80.6,3.57
+Sanjay Teo 630,IT156,2,97.0,3.06
+Siti Nasir 631,DB249,3,91.2,3.12
+Aisyah Jamal 632,DS343,2,94.4,3.7
+Muhammad Bakar 633,DS175,4,90.7,3.46
+Abdullah Salleh 634,CY244,3,99.8,3.54
+Xin Sharma 635,AI352,3,78.5,3.68
+Safwan Raman 636,MOB291,3,90.1,3.61
+Halim Reddy 637,DB151,2,74.6,3.26
+Hafizah Jones 638,CY330,2,84.5,3.42
+Halim Zainal 639,DB451,2,82.8,3.68
+Mohd Foo 640,CS505,4,91.1,3.71
+Linda Hamid 641,AI121,3,93.9,2.96
+Irfan Tan 642,WEB236,3,88.6,3.79
+Omar Rashid 643,CS376,2,85.9,3.42
+Priya Chua 644,DB219,4,94.3,3.56
+Rashid Mansor 645,CS259,3,87.9,3.21
+Divya Wong 646,WEB171,2,98.2,3.91
+Tan Salleh 647,SE422,2,81.0,2.74
+Ibrahim Ramli 648,CY346,3,87.7,3.69
+Ravi Mansor 649,DS451,4,96.6,3.7
+Zulkifli Chin 650,SE448,4,84.7,3.97
+Yusof Koh 651,CY176,4,94.2,3.68
+Sanjay Davis 652,CY354,4,82.9,3.1
+James Velu 653,WEB521,3,86.0,3.33
+Ali Chen 654,CS286,4,98.6,3.85
+Jing Aziz 655,DS524,3,78.3,3.87
+Ibrahim Hassan 656,SE288,3,74.2,2.86
+Ariff Shah 657,NET470,3,96.0,3.76
+Ying Harun 658,WEB465,3,94.9,3.78
+Faizal Ismail 659,DS301,3,88.3,3.39
+Deepak Kumar 660,CS512,3,95.6,3.91
+Elizabeth Lim 661,IT209,2,88.2,2.82
+Fatimah Yusof 662,CY148,3,90.3,3.62
+Chen Naidu 663,SE113,4,97.0,3.41
+Azhar Wang 664,SE494,3,87.2,3.05
+Nur Chen 665,MOB411,2,74.8,3.6
+Ismail Daud 666,SE135,3,96.2,3.46
+Hassan Tay 667,DB121,3,80.9,2.66
+Prakash Tan 668,NET360,4,76.6,3.71
+Siti Chua 669,IT249,4,93.1,3.44
+Jun Lim 670,IT193,2,94.7,3.7
+Yusof Shah 671,SE428,3,80.3,3.84
+Ying Salleh 672,AI426,3,79.2,3.52
+Sarah Sharma 673,CS148,4,91.9,3.17
+Xin Davis 674,MOB300,2,92.9,3.3
+Hakim Abdullah 675,SE335,3,76.8,2.77
+Haikal Wong 676,CS212,3,92.5,3.92
+Ahmad Osman 677,AI358,2,89.3,3.32
+Abdullah Raj 678,DB320,3,78.8,3.67
+Faizal Wong 679,IT513,2,88.2,3.25
+Mohd Zhang 680,DB383,4,68.4,3.44
+Prakash Zhang 681,WEB246,3,92.0,2.93
+Zulkifli Kumar 682,MOB321,3,83.6,3.06
+Sanjay Raj 683,NET263,3,75.3,3.06
+Sarah Chong 684,SE266,3,80.2,3.38
+Aziz Harun 685,CY196,3,93.8,3.64
+Kumar Bakar 686,IT174,2,95.7,3.66
+Wong Mahmud 687,DB533,3,79.8,3.56
+Li Singh 688,SE253,2,89.7,3.3
+Syahir Gan 689,CS182,3,92.1,3.26
+Hafiz Chong 690,AI340,4,91.9,3.85
+Safwan Ramli 691,SE507,3,86.4,3.51
+Wei Samad 692,SE118,3,76.6,3.46
+Prakash Wilson 693,SE500,3,97.3,3.52
+Jennifer Wang 694,IT388,3,79.9,3.28
+Hakim Krishnan 695,DS126,4,87.5,3.32
+Aina Rahman 696,MOB103,4,84.9,3.84
+Ariff Bakar 697,CY486,3,88.7,3.41
+Hassan Wilson 698,MOB153,2,91.3,3.81
+Prakash Velu 699,CS453,2,92.7,2.91
+Amirah Kumar 700,SE399,4,89.0,3.53
+Patricia Raman 701,DS396,4,91.4,3.46
+Hafizah Aziz 702,DS456,2,84.9,3.42
+Safwan Raman 703,WEB540,3,90.2,3.68
+Li Yeo 704,WEB204,4,89.9,3.86
+Abdullah Hamid 705,CS336,3,81.2,3.29
+Priya Naidu 706,NET361,3,88.8,3.71
+Syahir Bakar 707,WEB412,4,96.7,3.42
+Hana Zhang 708,MOB459,4,77.3,2.92
+Aina Chin 709,AI476,2,70.9,3.58
+Wei Kumar 710,SE271,4,92.7,2.57
+John Heng 711,CS351,3,98.1,3.3
+Chen Wong 712,AI512,3,85.4,2.53
+Syahir Khan 713,IT239,2,87.2,3.26
+Xin Miller 714,DS482,2,76.4,3.79
+Zulkifli Zainal 715,MOB314,3,82.3,3.53
+Hafiz Mansor 716,IT105,4,92.2,3.74
+Yan Ibrahim 717,DS245,2,76.5,2.83
+Hafizah Chua 718,IT466,3,80.8,3.09
+Divya Wong 719,AI255,3,66.2,3.44
+Kamal Osman 720,AI144,3,85.5,3.86
+Hakim Naidu 721,CY340,3,86.8,3.53
+Rizal Osman 722,DS398,3,76.5,3.23
+Yan Yusof 723,IT129,3,93.2,3.47
+Haikal Chandran 724,CS460,3,93.6,3.2
+Kamal Ng 725,IT101,3,95.6,3.47
+Hassan Osman 726,NET348,3,89.4,3.42
+Ahmad Sharma 727,SE520,3,78.5,3.11
+Lim Husin 728,NET517,4,90.8,3.32
+Hui Ibrahim 729,CY172,4,91.5,3.21
+Omar Chua 730,CY436,3,93.6,3.87
+David Moore 731,DB411,3,78.8,3.0
+Fatimah Hassan 732,SE219,2,83.5,3.7
+Sanjay Ghani 733,IT132,3,92.3,3.28
+Izzat Yap 734,DS201,3,91.7,3.9
+Chen Chen 735,CS515,3,95.3,3.43
+Zainal Sia 736,DB357,3,71.3,3.75
+Chen Ong 737,DB219,2,92.7,3.05
+Lee Velu 738,MOB224,3,78.7,3.56
+Zulkifli Ismail 739,SE205,3,98.1,3.62
+Tan Chong 740,DB167,3,88.8,2.99
+Azhar Rahman 741,CS114,3,81.4,3.15
+Xin Jamal 742,WEB171,2,92.0,2.89
+Linda Tay 743,CS511,2,89.2,3.88
+Hassan Mahmud 744,IT229,3,88.9,3.46
+Jennifer Salleh 745,CY458,2,68.4,3.68
+Azhar Ramli 746,WEB208,2,92.8,3.57
+James Ali 747,AI243,4,95.1,3.48
+Azman Chen 748,NET195,4,97.5,3.53
+Sarah Foo 749,DS488,2,85.0,3.89
+Sanjay Mansor 750,WEB338,4,86.3,3.92
+Hana Tan 751,DS495,3,80.2,3.15
+Hassan Ramli 752,MOB439,3,91.5,3.29
+Haikal Tan 753,AI413,3,88.2,2.71
+Azhar Ng 754,CS195,4,81.1,3.01
+Hafiz Lim 755,IT360,4,86.7,3.9
+Aina Koh 756,CS268,3,79.0,3.84
+Hakim Chandran 757,WEB502,3,94.2,2.67
+Syafiq Naidu 758,MOB423,4,72.8,3.47
+Halim Sia 759,AI225,3,85.2,3.75
+Mei Miller 760,IT281,2,90.6,3.35
+Mei Heng 761,SE411,3,96.3,3.44
+Kamal Sharma 762,DB108,3,76.6,3.92
+Ismail Mahmud 763,SE364,4,69.3,3.22
+Li Hashim 764,DB480,4,92.2,3.67
+Deepak Johnson 765,DB191,3,80.9,3.53
+Hakim Raj 766,SE122,3,88.3,3.58
+Sarah Khoo 767,IT219,3,67.3,3.25
+Izzat Jamal 768,DB367,3,96.7,3.67
+Aminah Bakar 769,IT282,2,96.9,3.05
+Lee Smith 770,CS322,2,95.2,3.91
+Siti Aziz 771,SE401,4,80.9,3.29
+Patricia Wang 772,CS323,2,80.5,3.62
+Rashid Osman 773,DS549,3,84.9,3.69
+Aina Ghani 774,DB267,3,88.6,2.87
+David Patel 775,MOB311,3,81.0,3.54
+Mei Zainal 776,DB318,4,82.3,3.55
+Ismail Velu 777,DS500,2,97.5,3.25
+Kumar Muthu 778,DS286,3,89.2,3.3
+Siti Ali 779,CS487,2,96.9,2.56
+Deepak Zulkifli 780,SE519,3,78.8,3.06
+Irfan Jamal 781,WEB481,2,93.5,3.53
+Mei Yap 782,AI348,3,81.7,3.75
+Nurul Zainal 783,DS329,3,89.7,3.44
+Michael Foo 784,DS143,3,83.8,3.15
+Muhammad Johnson 785,MOB407,4,81.1,3.35
+Tan Lim 786,NET459,2,92.2,3.27
+Jennifer Patel 787,SE484,4,85.9,3.69
+Prakash Tay 788,SE173,3,83.2,3.47
+Aminah Kumar 789,WEB467,4,79.7,3.17
+Raj Yeo 790,DB405,3,96.2,3.37
+Prakash Yeo 791,NET231,3,69.0,2.89
+Sanjay Brown 792,MOB496,3,92.7,2.75
+John Johnson 793,AI357,2,72.8,3.52
+Ilyas Wang 794,SE425,3,87.3,3.54
+Hafiz Raj 795,CS544,3,93.4,3.6
+Siti Krishnan 796,DB285,3,84.3,3.67
+Fatimah Rashid 797,AI421,2,91.3,3.95
+Yusof Raj 798,SE143,4,89.2,3.11
+Zulkifli Smith 799,SE401,3,88.1,3.13
+Amirah Tan 800,SE328,2,82.1,3.67
+Syafiq Lee 801,MOB338,2,70.9,3.17
+Mohd Wilson 802,DB142,3,75.2,3.53
+Syafiq Smith 803,NET216,3,83.7,3.01
+Ismail Ali 804,MOB298,3,80.8,3.8
+Robert Chong 805,AI147,3,77.3,3.3
+Safwan Ali 806,CY460,2,99.0,3.75
+Danial Singh 807,DB380,3,86.7,3.55
+Prakash Chin 808,CY348,4,68.9,3.89
+Ariff Chin 809,WEB202,3,83.9,3.83
+Ariff Ramli 810,IT195,3,86.1,3.81
+Priya Wang 811,DB443,4,96.4,2.55
+Ying Chin 812,NET374,2,90.0,3.33
+Lee Liu 813,SE356,3,88.5,3.41
+David Ali 814,AI316,3,92.7,3.3
+Sanjay Harun 815,CS349,4,86.4,2.76
+Linda Miller 816,IT503,3,92.6,2.94
+Kumar Husin 817,AI121,2,98.1,3.16
+Nurul Gan 818,AI192,3,87.9,3.9
+Aisyah Raj 819,IT374,2,78.6,3.21
+Jennifer Tay 820,DB121,2,80.2,3.58
+Ariff Jamal 821,NET112,3,95.4,3.26
+Aisyah Yusof 822,CY394,4,87.0,3.8
+Rashid Mansor 823,AI103,4,76.2,3.27
+Azman Rahman 824,CY214,2,84.6,3.34
+Hafizah Abdullah 825,CY275,3,84.4,3.03
+Muhammad Sia 826,IT424,4,92.7,3.53
+Nurul Chua 827,MOB400,3,89.1,3.32
+Deepak Velu 828,SE294,2,87.1,3.65
+Mohd Ghani 829,MOB243,3,85.8,3.5
+Azman Zulkifli 830,DB488,4,91.5,2.93
+Omar Wong 831,NET398,4,94.8,3.68
+Syafiq Shah 832,IT290,2,85.6,3.85
+Nur Raj 833,DB465,3,84.1,3.13
+Robert Ng 834,MOB529,3,95.0,2.81
+Patricia Shah 835,NET137,4,93.3,3.26
+Raj Daud 836,NET525,2,83.4,3.73
+Haikal Ng 837,SE288,4,92.8,3.05
+Michael Aziz 838,AI276,3,89.3,3.68
+Nurul Zhang 839,CY389,3,83.3,3.11
+Aziz Koh 840,MOB250,4,69.6,3.37
+Hafiz Chua 841,MOB537,3,86.4,3.73
+Yusof Bakar 842,MOB499,2,88.6,3.33
+Jennifer Liu 843,DS287,2,88.3,3.19
+Raj Samad 844,MOB368,3,90.2,3.71
+Wei Teo 845,WEB256,2,72.5,3.73
+Lee Krishnan 846,DB160,4,75.2,3.34
+Abdullah Said 847,DS402,4,80.9,3.27
+Linda Aziz 848,CY241,3,99.1,3.72
+Ariff Wong 849,DB276,3,87.8,3.34
+Rizal Chen 850,MOB445,3,85.7,3.37
+John Chin 851,NET500,3,84.7,3.69
+Syafiq Zainal 852,NET103,4,70.3,3.23
+Prakash Hassan 853,CY319,4,90.7,3.79
+Irfan Khan 854,MOB341,2,93.9,3.87
+Linda Wilson 855,DB246,2,95.6,3.49
+Hui Aziz 856,CY394,3,81.5,3.39
+Suresh Samad 857,DS195,3,89.1,3.83
+Priya Patel 858,CS526,2,91.0,3.6
+Wei Mahmud 859,MOB148,2,78.4,2.73
+Zulkifli Mahmud 860,SE432,3,78.1,3.48
+Azman Heng 861,CY373,4,78.1,3.62
+Zainab Chen 862,AI193,2,61.0,3.6
+Azhar Chen 863,DS256,3,88.1,3.66
+Zainal Moore 864,CS329,4,87.1,3.57
+Hassan Patel 865,MOB284,3,94.7,3.53
+Chen Davis 866,CY259,2,89.4,3.19
+Hana Johnson 867,CS173,3,86.7,3.22
+Faizal Ghani 868,SE315,3,90.1,3.92
+Divya Wilson 869,AI419,3,74.4,3.8
+Hafiz Zhang 870,IT315,2,76.8,3.64
+Nadia Teo 871,CY437,3,66.0,2.94
+Divya Mansor 872,MOB154,3,76.6,2.89
+Aziz Johnson 873,NET292,3,97.5,3.66
+Zainab Ali 874,DS183,4,83.5,3.43
+Mohd Harun 875,MOB235,4,69.5,3.57
+Michael Chong 876,DB440,2,87.6,3.62
+Abdullah Ong 877,WEB465,3,79.7,3.44
+Mary Reddy 878,SE531,3,83.5,3.56
+Linda Miller 879,WEB218,3,92.1,3.66
+Jing Shah 880,DB265,3,96.8,3.28
+Wei Ismail 881,NET172,3,93.2,3.6
+Hana Goh 882,NET164,3,86.8,3.48
+Syahir Shah 883,DS439,4,75.2,3.3
+Deepak Rashid 884,IT421,4,78.7,3.4
+Ilyas Chin 885,CY224,4,91.9,3.73
+Jing Rashid 886,CY143,2,85.0,3.81
+Michael Yap 887,MOB529,4,95.4,3.84
+Nur Miller 888,MOB445,4,98.1,3.49
+Xin Hassan 889,DS391,3,86.2,3.64
+Yan Karim 890,SE208,3,89.0,2.95
+Hakim Ramli 891,IT470,2,87.6,3.12
+Hui Miller 892,SE187,3,78.9,3.34
+Wong Lee 893,MOB549,4,92.8,3.17
+Rizal Tay 894,IT266,3,83.7,2.83
+Aisyah Zhang 895,DB432,3,79.5,3.72
+Patricia Heng 896,NET422,4,93.3,3.78
+Aminah Johnson 897,DS508,3,76.1,3.72
+Khairul Zhang 898,DB238,2,82.9,3.53
+Hana Tay 899,AI473,2,83.6,3.21
+Syafiq Chandran 900,NET174,3,98.0,3.55
+Halim Aziz 901,MOB497,3,94.9,3.17
+Deepak Shah 902,SE534,3,89.3,3.52
+Hafiz Tan 903,CY332,2,83.4,3.43
+Jennifer Abdullah 904,CS268,4,81.0,2.86
+Linda Wang 905,CY150,3,94.3,3.61
+Hafiz Sharma 906,MOB366,3,70.6,3.75
+Farid Aziz 907,CY173,3,75.5,3.43
+Wong Johnson 908,WEB389,4,93.1,3.47
+Deepak Tan 909,DB113,4,74.3,3.56
+Wong Ramli 910,MOB483,3,86.8,2.87
+Mary Raman 911,SE361,3,93.6,3.4
+James Chen 912,MOB428,2,80.1,3.65
+Sanjay Liu 913,CY529,4,81.6,3.61
+Danial Chen 914,AI310,2,89.7,3.53
+Priya Ibrahim 915,DB166,3,86.7,3.45
+Priya Mansor 916,WEB247,3,96.7,3.83
+Abdullah Liu 917,CS527,4,76.9,3.79
+Halim Chen 918,CY123,2,95.3,3.78
+Wei Zhang 919,SE422,3,97.1,3.76
+Khairul Smith 920,CS158,2,81.3,3.46
+Syafiq Ismail 921,NET494,2,98.4,2.84
+Sanjay Mansor 922,MOB299,4,86.1,3.66
+Omar Taylor 923,AI183,3,92.6,2.89
+Aziz Davis 924,DS308,4,92.3,3.23
+Jennifer Chen 925,DS212,3,80.4,2.84
+Prakash Ramli 926,DS302,3,86.4,3.79
+Farid Chong 927,SE438,4,89.9,3.39
+Kamal Chua 928,NET263,4,73.4,3.46
+Muhammad Wong 929,IT144,2,86.6,3.62
+Mohd Ramli 930,IT286,3,87.4,3.23
+Yusof Singh 931,NET161,4,80.3,3.8
+Fatimah Goh 932,NET343,4,83.2,3.27
+Ahmad Patel 933,MOB277,3,81.6,2.79
+Irfan Daud 934,IT282,4,71.7,3.56
+Li Nasir 935,CY121,3,89.9,3.56
+Deepak Taylor 936,CS456,3,79.7,3.7
+Sarah Chong 937,DS351,3,77.2,3.04
+Lim Aziz 938,IT191,3,83.4,2.75
+Faizal Mahmud 939,SE399,4,83.4,2.39
+Rashid Lee 940,IT102,4,92.9,3.7
+Safwan Ismail 941,DB195,2,83.3,3.79
+Halim Sharma 942,CY488,3,76.9,3.5
+Nur Raman 943,CS436,3,94.9,3.41
+Li Abdullah 944,IT264,3,82.6,3.47
+Michael Smith 945,WEB482,3,75.6,3.66
+Jun Samad 946,SE173,4,93.3,3.01
+Omar Chua 947,MOB195,3,88.1,3.06
+Khairul Bakar 948,DS198,4,88.5,3.55
+Irfan Khan 949,MOB249,3,71.4,2.96
+Hassan Chin 950,SE372,3,78.0,3.93
+Aisyah Chen 951,CY453,3,89.9,3.56
+Halim Teo 952,CY501,3,87.2,3.43
+Irfan Tan 953,WEB352,4,88.2,3.83
+Raj Shah 954,DS215,2,83.6,3.25
+Halim Chin 955,MOB162,3,94.4,3.37
+Siti Osman 956,AI205,3,78.5,3.47
+Hui Smith 957,IT241,4,83.4,3.61
+Khairul Khan 958,CY173,3,98.6,3.2
+Aina Johnson 959,MOB488,2,95.1,3.69
+Wei Chopra 960,NET380,2,88.4,3.65
+Sarah Liu 961,DS129,2,83.3,3.17
+Priya Rahman 962,WEB492,3,80.2,3.3
+Ali Jones 963,IT398,3,88.2,2.53
+Prakash Chandran 964,NET182,3,94.6,3.41
+Mary Zulkifli 965,DS195,2,66.1,2.91
+Mohd Foo 966,AI285,4,72.6,3.47
+Rashid Brown 967,DS356,4,90.8,3.31
+Lee Low 968,IT101,2,91.3,3.87
+Halim Jamal 969,CY139,3,76.3,3.58
+Haikal Yap 970,AI239,2,97.0,2.56
+Aina Khan 971,DS511,3,66.9,3.79
+Kumar Mansor 972,CY146,3,92.9,3.71
+Hafiz Hashim 973,SE398,4,79.0,3.71
+Ravi Husin 974,DB486,3,97.0,3.05
+Zainal Zainal 975,IT522,4,90.7,3.42
+Azhar Brown 976,DB160,3,87.9,3.44
+Lim Zhang 977,DB180,3,88.7,3.26
+Zainal Gan 978,IT518,3,85.3,3.48
+Ariff Williams 979,NET292,3,80.2,3.37
+Linda Wong 980,NET453,3,90.5,3.88
+Farid Hamid 981,MOB341,2,77.1,3.3
+Nurul Naidu 982,DB136,3,87.8,3.43
+Michael Raj 983,DB251,3,75.3,3.52
+Omar Moore 984,CS255,3,78.8,3.79
+Ilyas Tay 985,CS325,4,97.5,3.84
+Hana Nasir 986,WEB460,4,76.2,3.74
+Kamal Samad 987,WEB292,3,81.3,3.47
+Priya Abdullah 988,CY131,2,78.6,2.93
+Lee Koh 989,SE540,3,84.3,3.67
+Sarah Hashim 990,CS486,4,76.6,3.59
+Azman Teo 991,DB415,4,94.5,3.37
+Wei Yap 992,IT461,3,78.0,3.22
+John Chandran 993,DB298,3,85.5,3.66
+Amirah Mansor 994,MOB363,3,86.7,3.68
+Ying Reddy 995,MOB503,3,95.1,3.76
+Patricia Raj 996,IT471,3,79.2,3.21
+David Salleh 997,MOB336,3,86.1,3.64
+Haikal Bakar 998,WEB391,4,82.5,3.58
+Rashid Ong 999,CY490,2,89.5,3.91
+Raj Abdullah 1000,IT273,3,89.6,3.67
