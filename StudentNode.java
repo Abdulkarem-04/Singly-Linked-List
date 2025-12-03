@@ -25,3 +25,4 @@ public class StudentNode {
         System.out.println("Loaded: " + list.getSize() + " students");
     }
 }
+// This is new.
