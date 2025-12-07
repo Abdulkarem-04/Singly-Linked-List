@@ -162,9 +162,7 @@ public class StudentLinkedList {
 
         while (current != null) {
             System.out.printf(
-                    "Name: %s, Course: %s, Credit: %d, Grade: %.2f, CGPA: %.2f%n",
-                    current.name, current.course, current.credit,
-                    current.grade, current.cgpa
+                    "Name: %s, CGPA: %.2f%n", current.name, current.cgpa
             );
             current = current.next;
         }
