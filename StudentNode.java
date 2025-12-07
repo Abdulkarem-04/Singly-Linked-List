@@ -19,12 +19,9 @@ public class StudentNode {
         this.next = null; // Initially, next points to null
     }
 
-    static void main(String[] args) {
-        StudentLinkedList list = new StudentLinkedList();
-        list.loadFromCSV("students.csv"); // Loads 1k students for this specific csv file!
-        System.out.println("Loaded: " + list.getSize() + " students");
+    public static void main(String[] args) {
+    StudentLinkedList.testCase1();
+    StudentLinkedList.testCase2();
+    StudentLinkedList.testCase3();
     }
 }
-
-// This is new.
-// This is new again

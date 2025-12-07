@@ -140,12 +140,13 @@ public class StudentLinkedList {
         // Traverse and compare
         while (current != null) {
             if (current.name.equals(name)) {
+                System.out.println(name + " found!");
                 return index; // Found!
             }
             current = current.next;
             index++;
         }
-
+        System.out.println(name+" not found!");
         return -1; // Note found
     }
 
@@ -160,7 +161,11 @@ public class StudentLinkedList {
         System.out.println("------------------------------");
 
         while (current != null) {
-            System.out.printf("Name: %s, CGPA: %2f%n", current.name, current.cgpa);
+            System.out.printf(
+                    "Name: %s, Course: %s, Credit: %d, Grade: %.2f, CGPA: %.2f%n",
+                    current.name, current.course, current.credit,
+                    current.grade, current.cgpa
+            );
             current = current.next;
         }
         System.out.println("------------------------------");
@@ -252,5 +257,144 @@ public class StudentLinkedList {
         list.deleteLast();
         end = System.nanoTime();
         System.out.println("deleteLast: " + (end - start) + " ns");
+    }
+
+    public static void testCase1() {
+        System.out.println("\n=== TEST CASE 1 ==\n");
+        StudentLinkedList list = new StudentLinkedList();
+
+        // Add using addFisrt
+        System.out.println("Adding student using addFirst...");
+        list.addFirst("Charlie", "CS109", 3, 88.0, 3.5);
+        list.addFirst("Bob", "CS102", 4, 92.0, 3.8);
+        list.addFirst("Alice", "CS101", 3, 95.0, 3.9);
+        list.display();
+
+        // Add using addLast
+        System.out.println("\nAdding students using addLast...");
+        list.addLast("David", "CS104", 2, 85.0, 3.4);
+        list.addLast("Eve", "CS105", 3, 90.0, 3.7);
+        list.display();
+
+        // Insert at specific index
+        System.out.println("\nInserting 'Frank' at index 2...");
+        list.insertAt(2, "Frank", "CS106", 4, 87.0, 3.6);
+        list.display();
+
+        // Delete operations
+        System.out.println("\nDeleting first student...");
+        list.deleteFirst();
+        list.display();
+
+        System.out.println("\nDeleting last student...");
+        list.deleteLast();
+        list.display();
+
+        System.out.println("\nDeleting student at index 1...");
+        list.deleteAt(1);
+        list.display();
+
+        // Search operation
+        System.out.println("\nSearching for 'David'...");
+        int index = list.search("David");
+        if (index != -1) {
+            System.out.println("Found at index: " + index);
+        } else {
+            System.out.println("Not found");
+        }
+
+        // Get size
+        System.out.println("\nCurrent list size: " + list.getSize());
+    }
+
+    public static void testCase2() {
+        System.out.println("\n=== TEST CASE 2: Edge Cases ===\n");
+
+        StudentLinkedList list = new StudentLinkedList();
+
+        // Test 1: Operations on empty list
+        System.out.println("Test 1: Delete from empty list");
+        list.deleteFirst();
+        list.deleteLast();
+        list.display();
+
+        // Test 2: Invalid index
+        System.out.println("\nTest 2: Insert at invalid index (-1)");
+        list.insertAt(-1, "Invalid", "CS999", 3, 0, 0);
+
+        System.out.println("\nTest 2b: Insert at invalid index (100)");
+        list.insertAt(100, "Invalid", "CS999", 3, 0, 0);
+
+        // Test 3: Search in empty list
+        System.out.println("\nTest 3: Search in empty list");
+        int index = list.search("Somebody");
+        System.out.println("Search result: " + index);
+
+        // Test 4: Search for non-existent student
+        list.addFirst("Alice", "CS101", 3, 95.0, 3.9);
+        list.addFirst("Bob", "CS102", 4, 92.0, 3.8);
+        System.out.println("\nTest 4: Search for non-existent student");
+        index = list.search("Charlie");
+        System.out.println("Search result: " + index);
+    }
+
+    public static void testCase3() {
+        System.out.println("\n=== TEST CASE 3: Performance with 1000 Students ===\n");
+
+        StudentLinkedList list = new StudentLinkedList();
+
+        // Load data from CSV (you need to create this file)
+        System.out.println("Loading 1000 students from CSV...");
+        list.loadFromCSV("students.csv");
+        System.out.println("Loaded " + list.getSize() + " students\n");
+
+        // Measure addFirst
+        long start = System.nanoTime();
+        list.addFirst("Test1", "CS999", 3, 90.0, 3.8);
+        long end = System.nanoTime();
+        System.out.printf("addFirst: %d ns (%.4f ms)%n",
+                (end - start), (end - start) / 1_000_000.0);
+
+        // Measure addLast
+        start = System.nanoTime();
+        list.addLast("Test2", "CS998", 3, 90.0, 3.8);
+        end = System.nanoTime();
+        System.out.printf("addLast: %d ns (%.4f ms)%n",
+                (end - start), (end - start) / 1_000_000.0);
+
+        // Measure deleteFirst
+        start = System.nanoTime();
+        list.deleteFirst();
+        end = System.nanoTime();
+        System.out.printf("deleteFirst: %d ns (%.4f ms)%n",
+                (end - start), (end - start) / 1_000_000.0);
+
+        // Measure deleteLast
+        start = System.nanoTime();
+        list.deleteLast();
+        end = System.nanoTime();
+        System.out.printf("deleteLast: %d ns (%.4f ms)%n",
+                (end - start), (end - start) / 1_000_000.0);
+
+        // Measure deleteAt middle
+        start = System.nanoTime();
+        list.deleteAt(500);
+        end = System.nanoTime();
+        System.out.printf("deleteAt(500): %d ns (%.4f ms)%n",
+                (end - start), (end - start) / 1_000_000.0);
+
+        // Measure search (worst case - not found)
+        start = System.nanoTime();
+        list.search("NonExistentStudent");
+        end = System.nanoTime();
+        System.out.printf("search (not found): %d ns (%.4f ms)%n",
+                (end - start), (end - start) / 1_000_000.0);
+
+        // Measure search (best case - at beginning)
+        start = System.nanoTime();
+        list.search("Ali Bin Ahmad");  // Assuming first in CSV
+        end = System.nanoTime();
+        System.out.printf("search (at beginning): %d ns (%.4f ms)%n",
+                (end - start), (end - start) / 1_000_000.0);
     }
 }
